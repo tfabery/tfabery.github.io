@@ -40,12 +40,19 @@ html, body {
 .img-circle {
   border-radius: 50%;
   overflow: hidden;
+  width: 10%;
+  height: auto;
 }
 
 #name {
   font-family: 'Concert One', cursive;
   font-size: 5em;
   margin-top: 0;
+}
+
+#portrait {
+  width: 145%;
+  height: auto;
 }
 
 #title {
